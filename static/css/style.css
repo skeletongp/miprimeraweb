@@ -1,0 +1,24 @@
+body {
+    background: #00d2ff;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #928DAB, #00d2ff);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #928DAB, #00d2ff);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.contain {
+    padding: 5%;
+}
+
+.logo {
+    display: inline-block;
+    width: 90%;
+    align-self: center;
+    margin: auto;
+    margin-bottom: 3%;
+}
+
+.imglogo {
+    width: 100%;
+}
